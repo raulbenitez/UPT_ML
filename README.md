@@ -1,8 +1,9 @@
 # UPT_ML
-Intro to ML course at the Polytechnic University of Tirana (Albania)
+
+**Intro to ML course at the Polytechnic University of Tirana (Albania)**
 
 Raul Benitez, Universitat Politècnica de Catalunya (Barcelona, Spain)
-raul.benitez@upc.edu
+Contact: raul.benitez@upc.edu
 
 **Contents:**
 
