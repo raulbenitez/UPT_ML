@@ -1,6 +1,9 @@
 # UPT_ML
 Intro to ML course at the Polytechnic University of Tirana (Albania)
 
+Raul Benitez, Universitat Politècnica de Catalunya (Barcelona, Spain)
+raul.benitez@upc.edu
+
 **Contents:**
 
 1. Exploratory data analysis (data handling and visualization, imputation strategies) 
