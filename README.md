@@ -3,6 +3,7 @@
 **Intro to ML course at the Polytechnic University of Tirana (Albania)**
 
 Raul Benitez, Universitat Politècnica de Catalunya (Barcelona, Spain)
+
 Contact: raul.benitez@upc.edu
 
 **Contents:**
