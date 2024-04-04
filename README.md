@@ -14,10 +14,12 @@ Contact: raul.benitez@upc.edu
 4. Supervised classification models (kNN, discriminant analysis, decision trees)
 5. Performance evaluation (performance scores, train/test, k-fold cross-validation)
 
-** Course Evaluation ** 
+**Course Evaluation** 
 
 Develop a project with data from either Kaggle or UCI datasets: 
+
 https://www.kaggle.com/
+
 https://archive.ics.uci.edu/datasets
 
 The project should include: data loading, handling, data imputation (if needed), visualization, PCA analysis, clustering and a classification/regression model and the corresponding performance measures. 
