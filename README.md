@@ -13,5 +13,4 @@ Contact: raul.benitez@upc.edu
 3. Dimensionality Reduction (PCA)
 4. Supervised classification models (kNN, discriminant analysis, decision trees)
 5. Performance evaluation (performance scores, train/test, k-fold cross-validation)
-6. Introduction to Deep Learning for Image classification 
 
